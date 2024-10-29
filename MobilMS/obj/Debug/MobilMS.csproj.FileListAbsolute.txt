@@ -1,0 +1,91 @@
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+C:\Users\Avindu Aloka\source\repos\MobilMS\MobilMS\obj\Debug\MobilMS.Form2.resources
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+C:\Users\Avindu Aloka\Desktop\MobilMS\MobilMS\obj\Debug\MobilMS.csprojAssemblyReference.cache
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.AssemblyReference.cache
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.CoreCompileInputs.cache
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\supun\Desktop\New folder (4)\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.AssemblyReference.cache
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.CoreCompileInputs.cache
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\supun\Desktop\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.AssemblyReference.cache
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.CoreCompileInputs.cache
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\supun\Desktop\ishani\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.AssemblyReference.cache
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.CoreCompileInputs.cache
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\supun\Desktop\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.AssemblyReference.cache
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.CoreCompileInputs.cache
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+C:\Users\supun\Desktop\2 sem it\System\final and final\MobilMS3\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
+D:\project Gima\MobilMS\MobilMS\bin\Debug\MobilMS.exe.config
+D:\project Gima\MobilMS\MobilMS\bin\Debug\MobilMS.exe
+D:\project Gima\MobilMS\MobilMS\bin\Debug\MobilMS.pdb
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.AssemblyReference.cache
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.DashBoard.resources
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.Form1.resources
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.Properties.Resources.resources
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.GenerateResource.cache
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.csproj.CoreCompileInputs.cache
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.exe
+D:\project Gima\MobilMS\MobilMS\obj\Debug\MobilMS.pdb
